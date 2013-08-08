@@ -1,4 +1,4 @@
-var fs=requier('fs');
+var fs=require('fs');
 var express = require('express');
 var htmlfile="index.html";
 
